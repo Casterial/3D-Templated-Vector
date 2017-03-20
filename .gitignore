@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.filters
+3D_Vector/Debug/3D_Vector.tlog/3D_Vector.lastbuildstate
+*.tlog
+3D_Vector/3D_Vector.vcxproj
+*.sln
+3D_Vector.VC.db
+*.idb
